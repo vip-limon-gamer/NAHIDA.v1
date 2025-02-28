@@ -2,9 +2,9 @@
   "language": "en",
   "DeveloperMode": true,
   "autoCreateDB": true,
-  "allowInbox": false,
+  "allowInbox": true,
   "autoClean": true,
-  "adminOnly": false,
+  "adminOnly": true,
   "encryptSt": true,
   "UPTIME": 200,
   "commandDisabled": [
